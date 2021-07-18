@@ -1,0 +1,7 @@
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\Arreglo_2D\Arreglo_2D\obj\Debug\Arreglo_2D.csprojAssemblyReference.cache
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\Arreglo_2D\Arreglo_2D\obj\Debug\Arreglo_2D.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\Arreglo_2D\Arreglo_2D\bin\Debug\Arreglo_2D.exe.config
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\Arreglo_2D\Arreglo_2D\bin\Debug\Arreglo_2D.exe
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\Arreglo_2D\Arreglo_2D\bin\Debug\Arreglo_2D.pdb
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\Arreglo_2D\Arreglo_2D\obj\Debug\Arreglo_2D.exe
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\Arreglo_2D\Arreglo_2D\obj\Debug\Arreglo_2D.pdb

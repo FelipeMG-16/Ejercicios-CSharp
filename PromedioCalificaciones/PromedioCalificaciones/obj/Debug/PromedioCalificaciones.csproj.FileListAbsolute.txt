@@ -1,0 +1,7 @@
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\PromedioCalificaciones.csprojAssemblyReference.cache
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\PromedioCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\PromedioCalificaciones.exe.config
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\PromedioCalificaciones.exe
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\PromedioCalificaciones.pdb
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\PromedioCalificaciones.exe
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\PromedioCalificaciones.pdb

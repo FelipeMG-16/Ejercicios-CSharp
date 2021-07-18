@@ -1,0 +1,7 @@
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.exe.config
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.exe
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.pdb
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.csprojAssemblyReference.cache
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.exe
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.pdb

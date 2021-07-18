@@ -1,0 +1,7 @@
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\SentenciasDeControl\SentenciasDeControl\obj\Debug\SentenciasDeControl.csprojAssemblyReference.cache
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\SentenciasDeControl\SentenciasDeControl\obj\Debug\SentenciasDeControl.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\SentenciasDeControl\SentenciasDeControl\bin\Debug\SentenciasDeControl.exe.config
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\SentenciasDeControl\SentenciasDeControl\bin\Debug\SentenciasDeControl.exe
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\SentenciasDeControl\SentenciasDeControl\bin\Debug\SentenciasDeControl.pdb
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\SentenciasDeControl\SentenciasDeControl\obj\Debug\SentenciasDeControl.exe
+C:\Users\FELIPE MAQUEDA\Documents\Programas en C#\SentenciasDeControl\SentenciasDeControl\obj\Debug\SentenciasDeControl.pdb
